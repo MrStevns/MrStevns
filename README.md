@@ -7,7 +7,7 @@ Here's a bit about myself.
 - I have worked on both bigger and smaller apps, with architectectures ranging from MVC, MVVM-C, VIPER and recently also a combination of MVVM-C + SwiftUI.
 - I prefer working with native applications, be it mobile or desktop.
 - I believe in simple solutions over highly generic or too abstracted systems. one _CAN_ have too many abstractions!
-- I spend most of my free time on _An easy, intuitive tool to make 2D hand-drawn animations_ called [Pencil 2D](https://github.com/MrStevns/pencil).
+- I spend most of my free time on _An easy, intuitive tool to make 2D hand-drawn animations_ called [Pencil 2D](https://github.com/MrStevns/pencil) .
 
 My language of choice: Swift
 
