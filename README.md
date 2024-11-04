@@ -1,21 +1,16 @@
 Hi and welcome
 
-Since you've come this far, I assume you want to know more about me or what i do.
+Since you've come this far, I assume you want to know more about me or what I do.
 
 Here's a bit about myself.
-- I am an consultant, currently in a lead developer/architect role on an iOS app.
+- I currently work as an consultant, in a lead developer/architect role on an iOS app.
 - I have worked on both bigger and smaller apps, with architectures ranging from MVC, MVVM-C, VIPER and recently also a combination of MVVM-C + SwiftUI.
 - I prefer working with native applications, be it mobile or desktop.
-- I believe in simple solutions over highly generic or too abstracted systems. one _CAN_ have too many abstractions!
-- I spend most of my free time on _An easy, intuitive tool to make 2D hand-drawn animations_ called [Pencil 2D](https://github.com/MrStevns/pencil) .
+- I believe in simple solutions over highly generic or too abstracted systems.
+- I spend most of my free time on _An easy, intuitive tool to make 2D hand-drawn animations_ called [Pencil 2D](https://github.com/Pencil2D/pencil).
 
-My language of choice: Swift
+My first language of choice: Swift.
+My second language of choice: Odin.
 
-Why:
-- It feels good to write
-- It values readability and known programming paradigms.
-- The syntax is sane as opposed to other new languages like Rust and Zig.
-
-Other less interesting facts:
-- I enjoy old school arcade gaming.
-- I'm a metal head.
+Swift is what I use professionally, Odin is what I enjoy to use in my spare time, to scratch that other itch.
+I however can and will adapt to whatever is required to complete a given task, as such I also program in C, C++, Python, Bash and Javascript/Typescript when the need arises.
