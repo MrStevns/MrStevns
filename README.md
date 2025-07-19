@@ -7,7 +7,7 @@ Here's a bit about myself.
 - I have worked with code bases that has used architectures such as MVC, MVVM-C, VIPER and recently also a combination of MVVM-C + SwiftUI.
 - I prefer working with native applications, be it mobile or desktop.
 - I believe in simple solutions over highly generic or too abstracted systems.
-- I spend most of my free time on _An easy, intuitive tool to make 2D hand-drawn animations_ called [Pencil 2D](https://github.com/Pencil2D/pencil).
+- I spend most of my free time on _An easy, intuitive tool to make 2D hand-drawn animations_ called [Pencil2D](https://github.com/Pencil2D/pencil).
 
 My first language of choice: Swift.
 My second language of choice: Odin.
